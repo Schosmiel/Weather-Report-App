@@ -2,7 +2,14 @@
 
 The Weather Report App is a simple web application that allows users to check the current weather for a specific city. The app fetches weather data from the OpenWeatherMap API and displays relevant information such as temperature, humidity, wind speed, and a weather icon.
 
-![Weather Report App](images/app-screenshot.png)
+![Weather Report App](Metheo/int.png)
+
+
+![Weather Report Moscow](Metheo/res-mosc.png)
+
+
+
+![Weather Report Washington](Metheo/res-wash.png)
 
 ## Features
 
@@ -21,4 +28,4 @@ Before using the application, you need to obtain an API key from OpenWeatherMap.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/your-username/weather-report-app.git]
+   git clone https://github.com/your-username/weather-report-app.git
