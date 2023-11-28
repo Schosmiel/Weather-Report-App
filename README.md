@@ -21,4 +21,4 @@ Before using the application, you need to obtain an API key from OpenWeatherMap.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/weather-report-app.git
+   git clone [https://github.com/your-username/weather-report-app.git]
