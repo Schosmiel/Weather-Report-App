@@ -45,6 +45,7 @@ Before using the application, you need to obtain an API key from OpenWeatherMap.
 8. The weather information for the specified city will be displayed, or an error message will appear if the city is not found.
     
 9. The application uses different weather icons based on the current weather conditions:
+    
    . Cloudy :
    
      ![Weather Report App](Metheo/images/clouds.png)
