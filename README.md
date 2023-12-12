@@ -2,7 +2,10 @@
 
 The Weather Report App is a simple web application that allows users to check the current weather for a specific city. The app fetches weather data from the OpenWeatherMap API and displays relevant information such as temperature, humidity, wind speed, and a weather icon.
 
-![Weather Report App](Metheo/int.png)
+
+<p align="center">
+  <img src="Metheo/int.png" width="500" alt="Weather Report Washington">
+</p>
 
 
 <p align="center">
@@ -10,9 +13,6 @@ The Weather Report App is a simple web application that allows users to check th
   <img src="Metheo/res-wash.png" width="300" alt="Weather Report Washington">
 </p>
 
-
-
-![Weather Report Washington](Metheo/res-wash.png)
 
 ## Features
 
