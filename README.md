@@ -5,7 +5,10 @@ The Weather Report App is a simple web application that allows users to check th
 ![Weather Report App](Metheo/int.png)
 
 
-![Weather Report Moscow](Metheo/res-mosc.png)
+<p align="center">
+  <img src="Metheo/res-mosc.png" width="300" alt="Weather Report Moscow">
+  <img src="Metheo/res-wash.png" width="300" alt="Weather Report Washington">
+</p>
 
 
 
