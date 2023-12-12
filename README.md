@@ -4,7 +4,7 @@ The Weather Report App is a simple web application that allows users to check th
 
 
 <p align="center">
-  <img src="Metheo/int.png" width="500" alt="Weather Report Washington">
+  <img src="Metheo/int.png" width="600" alt="Weather Report Washington">
 </p>
 
 
